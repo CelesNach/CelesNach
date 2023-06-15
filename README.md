@@ -8,8 +8,11 @@ Me llamo Agustina, pero me dicen Nach o Gus.
 - ✨Formo parte de la comunidad CET (Chicas en tecnologia) de MeLi.
 - 📚 Múltiples cursos de tecnologia: 
  * *Programacion Web*
+ > VSC y CSS
  * *Diseño 2D*
+ > Inkscape, Canva y AutoCad
  * *Diseño 3D*
+ > 123Design, Ultimaker Cura y Tinkercad
  * *Liderazgo en Comunidades*
  * *Figma*
  * *Impresion 3D*
